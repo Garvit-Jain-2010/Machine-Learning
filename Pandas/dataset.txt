@@ -1,0 +1,5 @@
+	Product Name	Price
+0	Pepsi	200
+1	Coke	300
+2	Cake	400
+3	Chocolate	500
