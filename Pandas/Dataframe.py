@@ -6,10 +6,10 @@ import numpy as np
 
 # ------------------------------------------
 
-a = np.array([10, 20, 30])
+# a = np.array([10, 20, 30])
 
-df = pd.DataFrame(a)
-print(df)
+# df = pd.DataFrame(a)
+# print(df)
 
 # -------------------------------------------
 
