@@ -1,0 +1,18 @@
+1. To add a branch-
+git branch second
+
+2. To swtich to the other branch-
+git checkout second
+git swtich second
+
+3. To check how many branches are there-
+git branch
+
+4. To merge two branches-
+git merge second
+
+5. To make a new branch and directly swtich it the new branch-
+git checkout -b third
+
+6. To delete a branch-
+git branch -D third
